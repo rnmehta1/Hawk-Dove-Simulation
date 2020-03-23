@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0172189412f8648c395ba226eb5989e3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hawk: {fileID: 3133823262005047848, guid: 1e729607a0e5740dcb6467ef802ccdb6, type: 3}
+  - dove: {fileID: 1529437687928439921, guid: 3b2b888e6de474c72a491f12f7ec22dd, type: 3}
+  - food: {fileID: 7388068072767737503, guid: 9db6af9ca9f5045489fe6f9fe0d0ca46, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
