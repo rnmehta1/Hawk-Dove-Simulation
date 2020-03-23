@@ -9,3 +9,4 @@
 * If you want to see every step click **Next Step** before you click **Start**.
 * To see further generations after 100th click **Next Step**.
 * Data from every run is saved in a csv file of the format *“runDDMMYYYYHHMMSS.csv”*
+* Data in file is from end of each round.
